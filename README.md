@@ -1,1 +1,0 @@
-# GESTOR-DE-TAREAS
